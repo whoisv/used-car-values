@@ -347,5 +347,5 @@ Or open `notebooks/00_quickstart.ipynb` and run cells sequentially.
 
 ## License
 
-MIT (or your org’s standard).
+MIT
 
