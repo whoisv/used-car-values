@@ -40,9 +40,6 @@ vehicles-price-model/
 └─ requirements.txt
 ```
 
-> **Tip:** You can keep the whole pipeline inside a single notebook, but separating modules keeps iteration fast and reproducible.
-
----
 
 ## 1) Load & Sanity Filter
 
